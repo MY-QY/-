@@ -19,4 +19,24 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="线性表.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="栈.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="队列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

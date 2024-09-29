@@ -129,6 +129,14 @@
   <ItemGroup>
     <ClCompile Include="数据结构.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tree.h" />
+    <ClInclude Include="串.h" />
+    <ClInclude Include="数组.h" />
+    <ClInclude Include="队列.h" />
+    <ClInclude Include="栈.h" />
+    <ClInclude Include="线性表.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
